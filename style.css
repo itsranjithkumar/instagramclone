@@ -267,7 +267,7 @@ suggestions p:last-child{
         padding: 10px 20px;
     }
     section .left-side{
-        width: 100%:
+        width: 100%;
     }
     section .right-side{
         display:none;
@@ -275,7 +275,7 @@ suggestions p:last-child{
     
     }
 
-    @media (max-width:768px)
+    @media (max-width:768px){
         header .search-box{
           display: none;  
         }
@@ -290,3 +290,4 @@ suggestions p:last-child{
                 margin-right: 10px;
             } 
         }
+    }

@@ -105,8 +105,21 @@ section{
 
 
 
-.right-side{
-    width: 35%;
+
+
+
+/*posts*/
+
+.posts{
+    margin:25px 0;
+    background-color:white;
+    border:1px solid rgba(219,219,219,1);
+    border-radius: 3px;
+}
+.post .post-title{
+    display: flex; 
+    justify-content: space between;
+    align-items: center;
 }
 
 
